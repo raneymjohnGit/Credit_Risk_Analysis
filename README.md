@@ -64,19 +64,19 @@ Follow the instructions below and use the information in the credit_risk_resampl
     ![image_name](https://github.com/raneymjohnGit/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.png)
  
   - SMOTE Oversampling balanced accuracy score, confusion matrix and imbalanced classification report
-    ![image_name](https://github.com/raneymjohnGit/Amazon_Vine_Analysis/blob/main/Resources/SMOTE_Oversampling.png)
+    ![image_name](https://github.com/raneymjohnGit/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling.png)
 
   - ClusterCentroids Undersampling balanced accuracy score, confusion matrix and imbalanced classification report
-    ![image_name](https://github.com/raneymjohnGit/Amazon_Vine_Analysis/blob/main/Resources/ClusterCentroids_Undersampling.png)
+    ![image_name](https://github.com/raneymjohnGit/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_Undersampling.png)
 
   - SMOTEENN combination sampling balanced accuracy score, confusion matrix and imbalanced classification report
-    ![image_name](https://github.com/raneymjohnGit/Amazon_Vine_Analysis/blob/main/Resources/SMOTEENN_combination_sampling.png)
+    ![image_name](https://github.com/raneymjohnGit/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_combination_sampling.png)
  
   - Balanced Random Forest Classifier balanced accuracy score, confusion matrix and imbalanced classification report
-    ![image_name](https://github.com/raneymjohnGit/Amazon_Vine_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier.png)
+    ![image_name](https://github.com/raneymjohnGit/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier.png)
 
   - Easy Ensemble AdaBoost Classifier balanced accuracy score, confusion matrix and imbalanced classification report
-    ![image_name](https://github.com/raneymjohnGit/Amazon_Vine_Analysis/blob/main/Resources/Ensemble_AdaBoost_Classifier.png)
+    ![image_name](https://github.com/raneymjohnGit/Credit_Risk_Analysis/blob/main/Resources/Ensemble_AdaBoost_Classifier.png)
 
 ## Credit Risk Analysis Summary
 
