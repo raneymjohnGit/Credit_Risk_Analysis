@@ -85,4 +85,4 @@ Follow the instructions below and use the information in the credit_risk_resampl
         
         - Out of 87 actual high risk, it predicted 78 correctly compared to others. 
         
-        - Also the low risk 17118, low risk loan applications, it predicted only 975 as high risk, which is the lowset one compared to other models.
+        - Also out of 17118 low risk loan applications, it predicted only 975 as high risk, which is the lowest one compared to other models.
